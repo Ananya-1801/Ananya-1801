@@ -1,70 +1,16 @@
-# Hi, I'm Ananya
+# Hi, I am Ananya,
+I enjoy building intelligent automation solutions and strengthening my fundamentals through hands-on coding.<br>My work spans AI-powered automation using UiPath Studio Web and core programming concepts implemented across multiple languages.
 
-🎓 Computer Science student | 🤖 AI Automation Enthusiast | 💻 Programmer
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-I enjoy building **intelligent automation solutions** and strengthening my fundamentals through hands-on coding.  
-My work spans **AI-powered automation using UiPath Studio Web** and **core programming concepts** implemented across multiple languages.
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Ananya-1801&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-1801&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🚀 What I Work On
-
-### 🤖 AI & Automation (UiPath)
-I design and implement **agent-based automation solutions** using **UiPath Studio Web**, focusing on real-world use cases:
-
-- 💰 **Income Tax Calculator Agent**  
-  Automates tax calculation based on income slabs and inputs.
-
-- ✈️ **Airline Compensation Agent**  
-  Evaluates flight delay/cancellation scenarios and determines compensation eligibility.
-
-- 📈 **Stock Advisor Agent**  
-  Provides stock-related insights using predefined logic and automated decision flows.
-
-These projects emphasize **workflow design, decision logic, validations, and automation best practices**.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ananya-1801&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ananya-1801&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Programming & Development
-
-I actively practice and upload programs to strengthen my problem-solving and core CS skills:
-
-- 🐍 **Python** – basic programs, logic building, and scripting  
-- 🌐 **JavaScript** – fundamental scripts and web-oriented logic  
-- 📚 **Data Structures & Algorithms**
-  - Implemented in **C**
-  - Implemented in **C++**
-- ☕ **Java** – object-oriented programming and academic problem sets
-
----
-
-## 🛠️ Tools & Technologies
-
-- **UiPath Studio Web**
-- **Python**
-- **JavaScript**
-- **C / C++**
-- **Java**
-- **Git & GitHub**
-
----
-
-## 📌 What You’ll Find on My GitHub
-
-- Well-organized **automation projects**
-- **Academic and practice programs**
-- Clean, readable code focused on **concept clarity**
-- Continuous updates as I learn and improve
-
----
-
-## 📚 Currently Exploring
-
-- Advanced automation concepts  
-- AI-driven decision logic  
-- Improving code efficiency and structure
-- Exploring Machine Learning
-
----
-
-📫 *Feel free to explore my repositories and follow my learning journey!*
